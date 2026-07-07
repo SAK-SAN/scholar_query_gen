@@ -1,7 +1,7 @@
 # app.py
 import streamlit as st
 # 自作したSDKクラスをインポート
-from scholar_sdk import ScholarQuerySDK
+from sholar_sdk import ScholarQuerySDK
 
 # UIの基本設定
 st.set_page_config(page_title="Scholar Query Generator", layout="wide", page_icon="🔍")
