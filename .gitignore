@@ -1,0 +1,10 @@
+# セキュリティ関連
+.streamlit/secrets.toml
+.env
+
+# Python関連
+__pycache__/
+*.pyc
+venv/
+env/
+.DS_Store
